@@ -1,0 +1,1 @@
+helm upgrade --install airflow -f airflow-values.yaml airflow-stable/airflow --namespace airflow
